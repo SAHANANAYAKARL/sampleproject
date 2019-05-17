@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+
+.bg-img {
+  background:slateblue;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.email {
+  box-shadow: none;
+  background-color: #f5f5f5;
+  width: 420px;
+  height: 40px;
+  border: 1px solid #ccc;
+}
+
+.password {
+  box-shadow: none;
+  background-color: #f5f5f5;
+  width: 420px;
+  height: 40px;
+  border: 1px solid #ccc;
+}
+
+.logo {
+  padding-bottom: 19px;
+}
+
+.error {
+  font-size: 14px;
+}
+
+.form-bg {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 480px;
+}
+
+.form-card {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.form-title {
+  border-bottom: 1px solid #ccc;
+  padding: 20px 0 20px 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.form-linkbutton {
+  position: relative;
+  bottom: 30px;
+}
+
+.form-field {
+  padding: 20px 30px;
+}
+
+.botton {
+  background-color: #1f879d;
+  color: white;
+  padding: 9px 44px 9px 45px;
+}
+
+.custom2{
+  margin-left: 285px;
+}
+
+.fpasswordlink {
+  color: #031114;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.fsize {
+  font-size: 16px;
+}
